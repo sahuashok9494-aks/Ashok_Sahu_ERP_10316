@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    //ERP:10316 Ashok kumar sahu
     //Practical 7: Q.3.pattern//
     int n;
     scanf("%d",&n);
@@ -14,3 +15,9 @@ int main(){
     }
     return 0;
 }
+//5
+//A
+//AB
+//ABC
+//ABCD
+//ABCDE
